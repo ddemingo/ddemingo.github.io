@@ -1,4 +1,5 @@
-/_site
-/resources
-Gemfile.lock
+_site/
+.bundle/
+vendor/
 .jekyll-metadata
+Gemfile.lock
