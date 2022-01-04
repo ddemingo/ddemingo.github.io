@@ -9,7 +9,7 @@ The first project will consist of developing a website that will be hosted on [G
 
 Create a Github account, connect with ssh, and fork this project. To know how to it go to: [Tools/Github](https://github.com/ddemingo/tools/blob/main/github.md)
 
-Create a ubuntu virtual machine with vagrant and use Visual Studio Code with Remote-SSH. To know how to it go to: [Tools/VSCode](https://github.com/ddemingo/tools/blob/main/vscode.md).
+Create an ubuntu virtual machine with vagrant and use Visual Studio Code with Remote-SSH. To know how to it go to: [Tools/VSCode](https://github.com/ddemingo/tools/blob/main/vscode.md).
 
 Open VSCode terminal, and:
 
