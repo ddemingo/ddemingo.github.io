@@ -1,17 +1,9 @@
 # README
 
-## Install
-
-On Fedora:
 ```sh
-$ sudo dnf module enable ruby:2.7
-$ sudo dnf install ruby-devel
+$ sudo apt-get install ruby-dev ruby-bundler
 ```
 
-On Ubuntu:
-```sh
-TODO
-```
 
 Install gems:
 ```sh

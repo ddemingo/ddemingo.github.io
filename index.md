@@ -10,4 +10,14 @@ title: Australia
         <img class="img-fluid" src="images/australia.jpg" alt="Australia satelite plane">
     </div>
 </div>
+
+| FILE MANAGEMENT  |              |
+| ---------------- | ------------ |
+| `Ctrl+N`         | New File     |
+| `Ctrl+O`         | Open File... |
+| `Ctrl+S`         | Save         |
+| `Ctrl+Shift+S`   | Save As...   |
+| `Ctrl+W`         | Close        |
+| `Ctrl+K  Ctrl+W` | Close All    |
+{: class="table"}
     
